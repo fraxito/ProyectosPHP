@@ -1,6 +1,6 @@
 <?php
 //configuración para conectarse a la BBDD Mysql
 $servidor = 'localhost';
-$usuario =  'pruebas';
-$clave = '1234';
+$usuario =  'root';
+$clave = '';
 $BBDD = 'pruebasphp';
